@@ -21,7 +21,10 @@ Epoch: 800; Error: 5.535578971839331;
 Epoch: 900; Error: 5.23842518306609;
 
 Epoch: 1000; Error: 5.067648462448432;
+
+Множество для тренировки:
 ![Alt text](https://github.com/luzgin-v/nn/blob/master/nn1_training.png "Множество для тренировки")
+Результат проверки:
 ![Alt text](https://github.com/luzgin-v/nn/blob/master/nn1_result.png "Результат проверки")
 
 nn2.py - вторая задача
@@ -30,5 +33,7 @@ Epoch: 100; Error: 0.5689631454232106;
 
 Epoch: 200; Error: 0.011125958015970817;
 
+Множество для тренировки
 ![Alt text](https://github.com/luzgin-v/nn/blob/master/nn2_training.png "Множество для тренировки")
+Результат проверки:
 ![Alt text](https://github.com/luzgin-v/nn/blob/master/nn2_result.png "Результат проверки")
